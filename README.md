@@ -17,7 +17,7 @@
   ### Minhas Redes
  
 <div> 
- <a href="https://replit.com/@Paularina" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/240px-Repl.it_logo.svg.png" target="_blank"></a>
+ <a href="https://replit.com/@Paularina" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/New_Replit_Logo.svg/32px-New_Replit_Logo.svg.png" target="_blank"></a>
   <a href="https://www.instagram.com/paularadev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:paularinadev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/paula-rocha-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 

@@ -24,15 +24,6 @@
   <a href = "mailto:paularinadev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/paula-rocha-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-[![Next][Next.js]][Next-url]
-[![React][React.js]][React-url]
-[![Vue][Vue.js]][Vue-url]
-[![Angular][Angular.io]][Angular-url]
-[![Svelte][Svelte.dev]][Svelte-url]
-[![Laravel][Laravel.com]][Laravel-url]
-[![Bootstrap][Bootstrap.com]][Bootstrap-url]
-[![JQuery][JQuery.com]][JQuery-url]
- 
   ![Snake animation](https://github.com/Paularina/Paularina/blob/output/github-contribution-grid-snake.svg)
 
 </div>

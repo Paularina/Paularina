@@ -31,6 +31,9 @@ Meu nome é Paula, tenho 28 anos, moro na cidade da Serra  - ES
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="50px" height="50px" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50px" height="50px" /> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="50px" height="50px" />
+ <img width="50px" height="50px" src="https://img.icons8.com/color/48/angularjs.png" alt="angularjs"/>
+ 
+ 
 
 ### Interesse em estudar ou estudando (linguagens, frameworks, tecnologias e ferramentas):
 <div>
